@@ -366,6 +366,7 @@ input {
 .checkbox-box:checked + .checkbox-text .checkbox-icon-fake {
   background-color: #404bbf;
   fill: #F4F4FD;
+  border: none;
 }
 
 .privacy-link {
