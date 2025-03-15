@@ -556,6 +556,38 @@ a {
   letter-spacing: 0.04em;
 }
 
+.footer-subscribe-field::-webkit-input-placeholder {
+  color: #fff;
+  font-size: 12px;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+}
+
+.footer-subscribe-field::-moz-placeholder {
+  color: #fff;
+  font-size: 12px;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+}
+
+.footer-subscribe-field:-ms-input-placeholder {
+  color: #fff;
+  font-size: 12px;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+}
+
+.footer-subscribe-field::-ms-input-placeholder {
+  color: #fff;
+  font-size: 12px;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+}
+
 .footer-subscribe-btn {
   display: flex;
   justify-content: center;
